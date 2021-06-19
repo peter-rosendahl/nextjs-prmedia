@@ -1,3 +1,10 @@
+# PRmedia project
+*This is an attempt to create an improved version of [PRmedia.dk](https://prmedia.dk), where I use NextJS to make the content load faster with Server Side Rendering.*
+
+> v1.0.0
+---
+---
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
